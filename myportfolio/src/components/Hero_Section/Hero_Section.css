@@ -1,0 +1,26 @@
+.hero_img{
+    border-radius: 10px;
+    width:300px;
+    height:300px;
+    border-radius: 10px;
+    background: #7865ff;
+    margin-left: auto;
+}
+.hire-btn a{
+    color:#fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+.hero_title span{
+ color: #7865ff;
+}
+.hero_title{
+    font-weight: 600;
+}
+.contact-btn{
+    text-decoration: none;
+    font-weight: 500;
+}
+.hero__section{
+    padding-top: 150px;
+}
